@@ -1,1 +1,1 @@
-# lol-scrim-manager
+## LoL Scrim Manager
