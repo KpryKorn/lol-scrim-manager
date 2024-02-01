@@ -23,6 +23,9 @@ const config: Config = {
           "2xl": "6rem",
         },
       },
+      colors: {
+        primary: "#FF4500",
+      },
     },
   },
   plugins: [],
