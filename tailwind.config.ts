@@ -26,6 +26,9 @@ const config: Config = {
       colors: {
         primary: "#FF4500",
       },
+      fontFamily: {
+        grotesk: ["var(--font-grotesk)"],
+      },
     },
   },
   plugins: [],
